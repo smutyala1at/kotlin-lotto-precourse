@@ -58,7 +58,6 @@ class InputView {
         }
 
         return bonusNumber
-
     }
 
 
